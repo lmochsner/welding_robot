@@ -1,5 +1,5 @@
 # welding_robot
-Robot Kinematics and Dynamics: Welding Robot
+Robot Kinematics and Dynamics Capstone: Welding Robot Arm
 
 This code controls the HEBI Actuators on a five degree of freedom serial robot mechanism. Matlab and HEBI Actuators are necessary for this code to run.
 
